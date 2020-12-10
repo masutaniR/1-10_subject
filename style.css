@@ -71,25 +71,20 @@ footer {
   header {
     width: 100%;
   }
-
   main {
     width: 100%;
     display: block;
   }
-
   .contents {
     width: 90%;
     margin: 0 5% 20px 5%;
   }
-
   .contents:last-child {
     margin-bottom: 0;
   }
-
   .image {
     height: 150px;
   }
-
   footer {
     width: 100%;
   }
